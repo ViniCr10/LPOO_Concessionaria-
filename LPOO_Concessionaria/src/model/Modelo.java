@@ -6,7 +6,7 @@ package model;
 
 /**
  *
- * @author 20241PF.CC0017
+ * @author vini
  */
 public enum Modelo {
     UNO, KA, ONIX, COROLLA, CIVIC, PASSAT, FOCUS, CARRERA, AC200

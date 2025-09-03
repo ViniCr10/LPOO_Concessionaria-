@@ -10,7 +10,7 @@ import model.Marca;
 import model.Modelo;
 /**
  *
- * @author vinic
+ * @author vini
  */
 public class CadastroVeiculoJOptionPane {
     public static Veiculo cadastrarVeiculo() {

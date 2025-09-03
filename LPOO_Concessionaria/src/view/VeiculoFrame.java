@@ -12,7 +12,7 @@ import model.VeiculoRepositorio;
 import java.awt.*;
 /**
  *
- * @author vinic
+ * @author vini
  */
 public class VeiculoFrame extends JFrame {
     private JTable tabela;

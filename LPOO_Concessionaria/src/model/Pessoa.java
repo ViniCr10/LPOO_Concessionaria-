@@ -8,7 +8,7 @@ import java.time.LocalDate;
 
 /**
  *
- * @author 20241PF.CC0017
+ * @author vini
  */
 public class Pessoa {
     private String nome;

@@ -6,7 +6,7 @@ package model;
 
 /**
  *
- * @author 20241PF.CC0017
+ * @author vini
  */
 public class Cliente extends Pessoa{
 /*

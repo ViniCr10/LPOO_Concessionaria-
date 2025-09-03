@@ -9,7 +9,7 @@ import java.util.List;
 
 /**
  *
- * @author vinic
+ * @author vini
  */
 public class VeiculoRepositorio {
     private List<Veiculo> veiculos = new ArrayList<>();

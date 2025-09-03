@@ -14,7 +14,7 @@ import javax.swing.JTextField;
 
 /**
  *
- * @author vinic
+ * @author vini
  */
 public class VeiculoDialog extends JDialog {
     private JTextField txtPlaca, txtCor, txtAnoFab, txtAnoMod, txtValor;
